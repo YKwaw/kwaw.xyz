@@ -1,13 +1,11 @@
 
 ---
-title: "So Good They Can't Ignore You by Cal Newport"
+title: "How To Create A Career You'll Love with Cal Newport"
 date: 2020-01-17
 Description: "Notes from my reading of So Good They Can't Ignore You by Cal Newport"
 categories: ["book-notes"]
 tags: ["career"]
 ---
-## How To Create A Career You'll Love with Cal Newport
-
 I first came across [So Good They Can't Ignore You](https://www.amazon.co.uk/Good-They-Cant-Ignore-You/dp/0349415862/ref=sr_1_1?keywords=so+good+they+can%27t+ignore+you&qid=1650039123&sr=8-1) by a recommendation from YouTuber and podcasting extraordinaire CGP Grey on the podcast Cortex. It came in a discussion concerning how Grey and his co-host Myke Hurley had ended up in their respective careers. Hurley found something that he was intensely passionate about, podcasting, and therefore been able to work tirelessly to turn his hobby into a side-project and ultimately into his successful podcast network Relay.fm.
 
 Grey's story was very different. He talked of how he had a single aim, to be self employed. This had lead him to conducted a series experiments in pursuit of this aim. This was a more systematic approach, where the specifics of what the side-projects actually involved were of little importance as long as they could ultimately lead to his goal. To this end Grey mentioned the book **So Good They Can't Ignore You** *by Cal Newport* as a good springboard to understanding of this mentality. With my interest sufficiently piqued, I decided to dive in. 
