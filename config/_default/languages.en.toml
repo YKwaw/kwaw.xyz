@@ -8,7 +8,7 @@ rtl = false
 title = "Kwaw.xyz"
 # logo = "img/logo.jpg"
 description = "A personal blog"
-copyright = "Yosi Kwaw"
+copyright = "&copy; 2022 Yosi Kwaw"
 
 dateFormat = "2 January 2006"
 
