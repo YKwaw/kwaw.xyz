@@ -6,8 +6,8 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "ocean"
-defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
 footer.showAppearanceSwitcher = true
 
 enableSearch = true
