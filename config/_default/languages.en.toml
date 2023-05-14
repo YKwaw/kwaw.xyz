@@ -8,7 +8,7 @@ rtl = false
 title = "Kwaw.xyz"
 # logo = "img/logo.jpg"
 description = "A personal blog"
-copyright = "&copy; 2022 Kwaw"
+copyright = "&copy; 2023 Kwaw.xyz"
 
 dateFormat = "2 January 2006"
 
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = ""
   # image = "img/author.jpg"
   headline = "Better is Good"
-  bio = "This is just a place for me to write a little."
+  bio = ""
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
