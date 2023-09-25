@@ -25,6 +25,9 @@
   pageRef = "tags"
   weight = 30
 
+[[footer]]
+  name = "Poems"
+  pageRef = "poems"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
