@@ -10,7 +10,7 @@ ___
 
 Please don't pretend I was perfect,<br>
 As I move from he is, to he was,<br>
-I don't what to pass into legend,<br>
+I don't want to pass into legend,<br>
 Speak of me as I am,<br>
 A man of this world,<br>
 Flawed, searching, striving to be better.<br>
