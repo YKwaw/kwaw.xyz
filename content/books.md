@@ -1,7 +1,7 @@
 ---
 title: "Bookshelf"
 date: 2024-02-25
-description: "Log of books that I have read from ~late 2023 onwards "
+Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly to jor my own mememory. Things that I really like or would like to revisit get a ⭐.
 
