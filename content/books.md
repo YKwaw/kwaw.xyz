@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-02-25*
+*Last updated: 2024-03-06*
 
 ---
 
+- ⭐ **Babel, or the Necessity of Violence by R. F. Kuang** - March 2024
+	- A long overdue return to reading fiction, and glorious one at that. I don't remember the last time I got lost in a book to the point that I forwent sleep (and ruined the next workday). The book, set in a retro sci-fi 19th Oxford, is filled with culture, languages, and a interesting reimagining of the incentives driving the British empire. I was drawn in as a language nerd, and left with a thirst to learn more about the cruel history of the country I call home - and the impact it had on the country from which my parents hail. 
 - **No More Mr. Nice Guy by Robert A. Glover** - Jan 2024
     - In the vein of dating and relationships again. Little dated, but interesting. Lots of things to think on from this one. 
 - **How to Be Confident by James Smith** - Jan 2024
