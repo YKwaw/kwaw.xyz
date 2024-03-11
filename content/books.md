@@ -5,7 +5,7 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-03-011*
+*Last updated: 2024-03-11*
 
 ---
 
