@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-03-24*
+*Last updated: 2024-03-31*
 
 ---
 
+- ⭐ **The Courage to Be Disliked by Fumitake Koga and Ichiro Kishimi** - March 2024
+	- This one was pretty dense. An investigation of Adlerian psychology in the form of a conversation between a philosopher and a young man. Where Adler was a lesser known contemporary of Sigmund Freud. A lot to learn from this, but not something that can be taken on in one read through. 
 - ⭐ **Anything You Want: 40 Lessons for a New Kind of Entrepreneur by Derek Sivers** - March 2024
 	- This was a re-read of a lovely little business book from Dereck Sivers. Ideas are pretty simple and align well with my own philosophy. Or at least what I aspire to. Was interesting to read it with my PM hat on. "I was doing it for the customer". 
 - **Same as Ever: Timeless Lessons on Risk, Opportunity, and Living a good life by Morgan Housel** - March 2024
