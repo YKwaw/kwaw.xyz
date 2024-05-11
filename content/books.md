@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-04-13*
+*Last updated: 2024-05-11*
 
 ---
 
+- **When We Cease to Understand the World by Benjamín Labatut** - May 2024
+	- A curious book that was recommended to me by a colleague. Comprised of a fictional narrative around some of the most significant discoveries in Maths, Chemistry, and Physics -  and the people behind them. The author has a kind of meandering style of writing which takes a little getting used to, and I'm not sure how accessible this book would be to someone who hadn't spent a decent amount of times in STEM classrooms. But I actually had a great time. It was cool to see in narrative form how science builds upon itself. I also really enjoyed trying to preempt the roles of people in the story based off of my knowledge of theories or constants that bear their names.
 - **Who They Was by Gabriel Krauze** - April 2024
 	- A recommendation from my house mate. A first hand account of the London experience from a (former?) roadman. Pretty brutal throughout, a really eye opener. It has instilled a dose of paranoia in me when I walk around the city which I didn't have before. Not sure if this is for the better. It's written as Krauze speaks, filled with slag that I was not familiar with. This is paired with sprinkles of Krauze's beautiful prose, view of the world, and us of simile. This book was the first time in a long time that I have thought, "wow, that is beautiful" after reading a passage. And it happened repeatedly. 
 - ⭐ **The Courage to Be Disliked by Fumitake Koga and Ichiro Kishimi** - March 2024
