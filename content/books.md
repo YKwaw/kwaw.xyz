@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-05-11*
+*Last updated: 2024-06-12*
 
 ---
 
+- **Was man von hier aus sehen kann von Mariana Leky** - June 2024
+	- Welch interessanter Roman. Ich habe keine Ahnung, wie ich ihn beschreiben soll. Aber er hat mir gefallen. Es war eine einfache Geschichte über Liebe und Tod. Doch der einzigartige Stil von Leky macht das Buch aus. Man schwebt irgendwie hindurch, mit einem Lächeln im Gesicht. Wunderbar!
 - **When We Cease to Understand the World by Benjamín Labatut** - May 2024
 	- A curious book that was recommended to me by a colleague. Comprised of a fictional narrative around some of the most significant discoveries in Maths, Chemistry, and Physics -  and the people behind them. The author has a kind of meandering style of writing which takes a little getting used to, and I'm not sure how accessible this book would be to someone who hadn't spent a decent amount of times in STEM classrooms. But I actually had a great time. It was cool to see in narrative form how science builds upon itself. I also really enjoyed trying to preempt the roles of people in the story based off of my knowledge of theories or constants that bear their names.
 - **Who They Was by Gabriel Krauze** - April 2024
