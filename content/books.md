@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-06-12*
+*Last updated: 2024-10-13*
 
 ---
 
+- **Alchemy: The Surprising Power of Ideas That Don't Make Sense by Rory Sutherland** - September 2024
+	- This was something I ended up reading after listening to a couple of Rory Sutherland interviews on the Modern Wisdom Podcast. Was a super interesting read. Mostly based on Sutherland's thesis that pure logic isn't always the right method for addressing problems when it comes to people - and that there are novel (and sometimes better) solutions available to those that are willing to think outside the box. Pretty interesting insight particularly given my current job as a product manager.
 - **Was man von hier aus sehen kann von Mariana Leky** - June 2024
 	- Welch interessanter Roman. Ich habe keine Ahnung, wie ich ihn beschreiben soll. Aber er hat mir gefallen. Es war eine einfache Geschichte über Liebe und Tod. Doch der einzigartige Stil von Leky macht das Buch aus. Man schwebt irgendwie hindurch, mit einem Lächeln im Gesicht. Wunderbar!
 - **When We Cease to Understand the World by Benjamín Labatut** - May 2024
