@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-10-13*
+*Last updated: 2024-11-24*
 
 ---
 
+- **Written on The Body by Jeanette Winterson** - November 2024
+	- KD recommendation, and unlike anything I have ever read before. An exploration of love, desire, and the human body. Winterson's writing is intense, visceral. Conveying well the narrators feelings to the reader. This paired with her "scatterbrained" style made for an interesting read. Raw emotion; lust, desire, loss. Intermingled with musings on the body, it's senses, and a philosophical exploration of what it all means. Winterson also threw in the odd scientific or historical tangent, which often acted as a welcome respite from the intensity. The story itself was compelling for the first 9/10, but the ending was a little to open to interpretation for my liking. But perhaps that's just a part of the magic? 
 - **Alchemy: The Surprising Power of Ideas That Don't Make Sense by Rory Sutherland** - September 2024
 	- This was something I ended up reading after listening to a couple of Rory Sutherland interviews on the Modern Wisdom Podcast. Was a super interesting read. Mostly based on Sutherland's thesis that pure logic isn't always the right method for addressing problems when it comes to people - and that there are novel (and sometimes better) solutions available to those that are willing to think outside the box. Pretty interesting insight particularly given my current job as a product manager.
 - **Was man von hier aus sehen kann von Mariana Leky** - June 2024
