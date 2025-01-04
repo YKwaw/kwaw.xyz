@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2024-11-24*
+*Last updated: 2025-01-04*
 
 ---
 
+- **The Poppy War by R. F. Kuang** - January 2025
+	- I really don't know how to feel about this one. I really enjoyed the first 3/4. With a YA like school for gifted children feel, set in an interesting world. But things descended in the last quarter. The level of brutality ratchetted up to new heights. The protagonist, that I wasn't 100% on board with, took a major left turn. And it all got a little dark to be honest. I think that, on balance, I enjoyed the book - and I am curious how the series continues. But I doubt that I'll be picking up another tomb to read about a protagonist that I don't really like or empathize with.
 - **Written on The Body by Jeanette Winterson** - November 2024
 	- KD recommendation, and unlike anything I have ever read before. An exploration of love, desire, and the human body. Winterson's writing is intense, visceral. Conveying well the narrators feelings to the reader. This paired with her "scatterbrained" style made for an interesting read. Raw emotion; lust, desire, loss. Intermingled with musings on the body, it's senses, and a philosophical exploration of what it all means. Winterson also threw in the odd scientific or historical tangent, which often acted as a welcome respite from the intensity. The story itself was compelling for the first 9/10, but the ending was a little to open to interpretation for my liking. But perhaps that's just a part of the magic? 
 - **Alchemy: The Surprising Power of Ideas That Don't Make Sense by Rory Sutherland** - September 2024
