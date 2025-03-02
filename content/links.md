@@ -24,6 +24,7 @@ Last updated: 2025-01-04
 
 - [Get Numb Before You Get Good from Commoncog.com](https://commoncog.com/get-numb-get-good)
 - [Do The Real Thing from Scotthyoung.com](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing)
+- ⭐[Minimum Effective Dose from Winnielim.org](https://winnielim.org/journal/minimum-effective-dose)
 
 ## Money
 

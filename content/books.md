@@ -5,10 +5,14 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2025-01-04*
+*Last updated: 2025-03-03*
 
 ---
 
+- **The Medium is the Massage by Marshall McLuhan and Quentin Fiore** - March 2025
+	- Bit of an odd one. Book like a magazine. I believe that mags like wired were actually influenced by this book. Some really interesting, and eerily accurate, insights of how media will affect society in the future. But also a tone of stuff I couldn't really follow.
+- **On Writing by Stephen King** - February 2025
+	- The classic book on writing and what Mr King thinks it takes to be a writer. It is a book I have been meaning to read for years (and have even gifted). It was more memoir than I imagined, and I enjoyed that section a lot. This focus on the technical part of writing was a bit of a mixed bag. Some interesting and tactical suggestions, mixed in with a good does of subjectivity/common sense. 
 - **The Poppy War by R. F. Kuang** - January 2025
 	- I really don't know how to feel about this one. I really enjoyed the first 3/4. With a YA like school for gifted children feel, set in an interesting world. But things descended in the last quarter. The level of brutality ratchetted up to new heights. The protagonist, that I wasn't 100% on board with, took a major left turn. And it all got a little dark to be honest. I think that, on balance, I enjoyed the book - and I am curious how the series continues. But I doubt that I'll be picking up another tomb to read about a protagonist that I don't really like or empathize with.
 - **Written on The Body by Jeanette Winterson** - November 2024
