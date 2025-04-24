@@ -5,12 +5,16 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2025-03-03*
+*Last updated: 2025-04-24*
 
 ---
 
+- **Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel with Blake Masters** - April 2025
+	- Back into business book land. I have a lot to say about this one. Let's start with the negative. This book lays it on thick with the Silicon Valley self-aggrandizing views. Founders, the author included, are a special breed. They are building the future, and the only ones capable of doing so. Real nerds that are changing the world wear t-shirts not suits. Also there was what I could only describe as an AD break for Palantir about 2/3rds through, which was very strange. Lastly, the lording of Elon Musk and his companies if very interesting reading with 2025 eyes. I do wonder what the author thinks of his antics in the last couple of years. On the business side there are lots of interesting take-aways. One of the things I think will stick with me is the view that a start-up should start by targeting a niche. Attempting to take a large share of a small market. Not a new idea by any means, but the framing and example of Paypal targeting Ebay power-sellers in the early days were useful. I also enjoyed  the highlighting of how important sales and distribution are to the success of a business. 
+- **Life for Sale by Yukio Mishima** - April 2025
+	- Another KD recommendation, after my trip to Japan. Don't really know how to talk about this one. I really liked the premise, thought it was interesting and had a lot of potential. But I struggled a lot with the writing. I found it so terse and kind of soulless. Maybe because of the translation? Also the ending was just nothing. 
 - **The Medium is the Massage by Marshall McLuhan and Quentin Fiore** - March 2025
-	- Bit of an odd one. Book like a magazine. I believe that mags like wired were actually influenced by this book. Some really interesting, and eerily accurate, insights of how media will affect society in the future. But also a tone of stuff I couldn't really follow.
+	- Bit of an odd one. The book like a magazine. I believe that mags like Wired were actually influenced by this book. Some really interesting, and eerily accurate, insights of how media will affect society in the future. But also a tonne of stuff I couldn't really follow.
 - **On Writing by Stephen King** - February 2025
 	- The classic book on writing and what Mr King thinks it takes to be a writer. It is a book I have been meaning to read for years (and have even gifted). It was more memoir than I imagined, and I enjoyed that section a lot. This focus on the technical part of writing was a bit of a mixed bag. Some interesting and tactical suggestions, mixed in with a good does of subjectivity/common sense. 
 - **The Poppy War by R. F. Kuang** - January 2025
