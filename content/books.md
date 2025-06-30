@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2025-04-24*
+*Last updated: 2025-06-30*
 
 ---
 
+- **The Pearl by John Steinbeck** - June 2025
+	- Bookclub! Nice little read. Steinbeck's way of writing pulls you along through this story, set in this little (real?) world that he has created. Loved a lot of the imagery, and found the lack of dialogue early doors very interesting. As for the parable itself, not sure I am on board with what I understood as a pretty straightforward "God punishes those who attempt to rise above their station". 
 - **Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel with Blake Masters** - April 2025
 	- Back into business book land. I have a lot to say about this one. Let's start with the negative. This book lays it on thick with the Silicon Valley self-aggrandizing views. Founders, the author included, are a special breed. They are building the future, and the only ones capable of doing so. Real nerds that are changing the world wear t-shirts not suits. Also there was what I could only describe as an AD break for Palantir about 2/3rds through, which was very strange. Lastly, the lording of Elon Musk and his companies if very interesting reading with 2025 eyes. I do wonder what the author thinks of his antics in the last couple of years. On the business side there are lots of interesting take-aways. One of the things I think will stick with me is the view that a start-up should start by targeting a niche. Attempting to take a large share of a small market. Not a new idea by any means, but the framing and example of Paypal targeting Ebay power-sellers in the early days were useful. I also enjoyed  the highlighting of how important sales and distribution are to the success of a business. 
 - **Life for Sale by Yukio Mishima** - April 2025
