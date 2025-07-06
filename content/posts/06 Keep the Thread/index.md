@@ -5,9 +5,9 @@ Description: "App idea for tracking threaded tasks"
 categories: ["half-baked-ideas"]
 tags: ["product managmenet", "productivity"]
 ---
-
+{{< alert info >}}
 *Half-Baked ideas is my attempt at getting ideas out of my notes app and into the world. They are generally mini solutions to problems that I come across in my life - be that personally or professionally. Ideas that I think have promise, but have not been thought through.*
-
+{{< /alert >}}
 
 ## Keeping the Thread
 
