@@ -72,10 +72,10 @@ As long as you find it engaging enough to listen too, without it giving you the 
 I had a range of different songs and genres fill this role over the years, but pop music in a language you don't speak often works well.
 Also, there is now a whole genre of music that was almost conceived purely for the purpose in Lofi Hiphop.
 
-{{< alert >}}
+
 **Fair warning:** doing this will ruin the song for you forever (or at least a view years).
 So don't choose your favourite song, or something that often pops up on the radio.
-{{< /alert >}}
+
 
 ## Have a plan
 
