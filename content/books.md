@@ -9,7 +9,7 @@ Collection of things that I have read from late 2023 onwards. Mostly logging to 
 
 ---
 
-- **The Sweaty Startup: How to Get Rich Doing Simple Things by Nick Huber** - August 2025 ⭐
+- ⭐ **The Sweaty Startup: How to Get Rich Doing Simple Things by Nick Huber** - August 2025
 	- Snuck in a little business book. And the message, that the best way to build a startup is to copy existing simple business models, is a compelling one. I also think that Huber does well to convey that entrepreneur of the style he suggests is not a get rich quick scheme. There is hard work, there is fear, and there is failure. The second half of the book is pretty sobering. I think there is a lot to take away from this as a professional or as an aspiring entrepreneur; everything is sales, you have to find time for the important and not urgent work, people are at the center of everything. And possibly most importantly, you should remember why you're doing it all. Not for monetary wealth, but for time. As real wealth, real freedom, is being the master of your own time. 
 - **The Pearl by John Steinbeck** - June 2025
 	- Bookclub! Nice little read. Steinbeck's way of writing pulls you along through this story, set in this little (real?) world that he has created. Loved a lot of the imagery, and found the lack of dialogue early doors very interesting. As for the parable itself, not sure I am on board with what I understood as a pretty straightforward "God punishes those who attempt to rise above their station". 
