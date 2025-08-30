@@ -19,7 +19,7 @@ footer.showScrollToTop = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = true
+  showRecent = false
 
 [article]
   showDate = true
@@ -43,7 +43,7 @@ footer.showScrollToTop = true
   showBreadcrumbs = false
   showSummary = false
   showTableOfContents = false
-  groupByYear = true
+  groupByYear = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

@@ -4,6 +4,7 @@ date: 2023-06-25
 Description: "Words from the philosopher Alan Watts"
 categories: ["fragments"]
 tags: ["life", "philosophy"]
+url: /life-is-not-a-journey/
 ---
 I stumbled across a video  containing audio from Alan Watts' lecture series *out of your mind* [^1]. I was not familiar with his work before this, but the excerpt not only struck me as beautiful, but also resonated deeply with where I am currently in my life.
 

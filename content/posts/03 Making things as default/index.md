@@ -4,6 +4,7 @@ date: 2023-05-14
 Description: "Attempting to spend time more intentionally, rather than endlessly consuming content"
 categories: ["fragments"]
 tags: ["internet", "YouTube", "the-algorithm"]
+url: /making-things-as-default/
 ---
 I have been going pretty hard into a YouTube spiral recently.
 Conscious of, but unable to escape the well of unintentionally spent time.

@@ -4,6 +4,7 @@ date: 2023-09-24
 Description: "Highlighting a series of ariticles by science writer Derek Lowe"
 categories: ["fragments"]
 tags: ["writing", "science"]
+url: /things-i-wont-work-with/
 ---
 I often marvel at those that can write well. Particularly those that pair this skill with the communication of a complex subject matter.
 

@@ -1,12 +1,13 @@
 ---
-title: "Keep the Thread - Half-baked Ideas"
+title: "App Ideas - Keep the Thread"
 date: 2025-01-12
 Description: "App idea for tracking threaded tasks"
-categories: ["half-baked-ideas"]
+categories: ["app-ideas"]
 tags: ["product managment", "productivity"]
+url: /keep-the-thread/
 ---
 {{< alert info >}}
-*Half-Baked ideas is my attempt at getting ideas out of my notes app and into the world. They are generally mini solutions to problems that I come across in my life - be that personally or professionally. Ideas that I think have promise, but have not been thought through.*
+*App Ideas is my attempt at getting ideas out of my notes app and into the world. They are generally mini solutions to problems that I come across in my life - be that personally or professionally. Ideas that I think have promise, but have not been thought through.*
 {{< /alert >}}
 
 ## Keeping the Thread

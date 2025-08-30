@@ -4,6 +4,7 @@ date: 2022-09-19
 Description: "Techniques that I found helped me study more effectively"
 categories: ["fragments"]
 tags: ["studying"]
+url: /how-to-study/
 ---
 I always found revising a really difficult process.
 A bit like reading a book you have already read, I was easily distracted and always bored. 

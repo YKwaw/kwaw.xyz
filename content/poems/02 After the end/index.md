@@ -3,6 +3,7 @@ title: "After The End"
 date: 2020-05-27
 Description: "A poem about life and death"
 tags: ["life", "death"]
+url: /poems/after-the-end/
 ---
 The passing of a family friend at the start of this year had me thinking a lot about death. I don't really know how to think or write about the topic of my own inevitable passing, but think the below is pretty decent go at expressing it.
 ___

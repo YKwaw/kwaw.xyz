@@ -1,9 +1,10 @@
 ---
-title: "Design Review Checklist: How to Conduct a Design Review as a Product Manager"
+title: "Design Review Checklist"
 date: 2025-08-24
 Description: "How to conduct a design review as a product manager"
 categories: ["Product Management Handbook"]
 tags: ["product managment"]
+url: /design-review/
 ---
 This is an attempt to codify the things that I consider during a design review. This list is by no means prescriptive, but will hopefully act as a useful guide to someone. Or at the very least myself.
 

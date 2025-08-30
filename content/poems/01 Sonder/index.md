@@ -3,6 +3,7 @@ title: "Sonder"
 date: 2016-05-20
 Description: "A poem inspired by a made up word"
 tags: ["life", "humanity"]
+url: /poems/sonder/
 ---
 The following is a poem inspired by [the dictionary of obscure sorrows](https://www.dictionaryofobscuresorrows.com/), which seeks to define newly invented words for powerful emotions, filling the hole that can be found the English language.
 ___
