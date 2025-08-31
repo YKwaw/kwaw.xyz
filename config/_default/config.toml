@@ -12,5 +12,5 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-  [params]
-    analytics = "analytics.html"
+[params]
+  analytics = "analytics.html"
