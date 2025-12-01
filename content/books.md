@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2025-08-24*
+*Last updated: 2025-12-01*
 
 ---
 
+- **A Promised Land by Barack Obama** - November 2025
+	- Have been meaning to read something from Obama for a while and ended up listening to this tome. A 30 hour memoir that was a genuinely interesting insight into the man, his journey, and his time in office. Probably my biggest takeaway is just how large an impact circumstance seems to have on politics. What's in the news cycle, who is up for re-election soon, who has a special interest head-quartered in state, and who's side you are on all seem to matter more than the content of a policy. Not sure how that makes me feel.
 - ⭐ **The Sweaty Startup: How to Get Rich Doing Simple Things by Nick Huber** - August 2025
 	- Snuck in a little business book. And the message, that the best way to build a startup is to copy existing simple business models, is a compelling one. I also think that Huber does well to convey that entrepreneur of the style he suggests is not a get rich quick scheme. There is hard work, there is fear, and there is failure. The second half of the book is pretty sobering. I think there is a lot to take away from this as a professional or as an aspiring entrepreneur; everything is sales, you have to find time for the important and not urgent work, people are at the center of everything. And possibly most importantly, you should remember why you're doing it all. Not for monetary wealth, but for time. As real wealth, real freedom, is being the master of your own time. 
 - **The Pearl by John Steinbeck** - June 2025
