@@ -32,6 +32,10 @@
   name = "Poems"
   pageRef = "poems"
 
+[[footer]]
+  name = "Recipes"
+  pageRef = "recipes"
+
 
 
 # -- Footer Menu --
