@@ -1,11 +1,10 @@
 ---
 title: "Japanese Curry"
 date: 2025-12-03
-Description: "Recipe for Japanes curry"
+Description: "Recipe for Japanese curry"
 tags: ["Curry"]
 url: /recipes/japanese-curry/
 ---
-
 ## Ingredients
 
 - Curry cubes
