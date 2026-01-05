@@ -25,7 +25,7 @@ url: /recipes/japanese-curry/
 - Tofu
 - Plain flour
 - Panko
-- 1x Egg
+- 1 x Egg
 
 
 ## Instructions
