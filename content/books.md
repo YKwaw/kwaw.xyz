@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2025-12-15*
+*Last updated: 2026-05-17*
 
 ---
 
+- **How to Win Friends and Influence People by Dale Carnegie** - May 2026
+	- Actually really liked this. Very much in the vein of "how to be a decent human", rather that the slightly manipulative spin that the book seems to have gained in modern culture. The examples were over-the-top and simplified, but I really do think there is a lot to be taken from this book. Felt a lot like a book version of Speaking in Front, a speaking course I did in London early last year. 
 - **The Art of Spending Money: Simple Choices for a Richer Life by Morgan Housel** - December 2025
 	- Am a little torn by this one. In the first half I found it very repetitive and was set on putting it in the "could have be a blog post" category of books. But I do really like Housel writing, especially his blog posts, and the book brought me around. Some interesting ideas on what financial freedom actually is. As well as the choices that each of us should consciously make with our money - rather than just keeping up with the Joneses.
 - **A Promised Land by Barack Obama** - November 2025
