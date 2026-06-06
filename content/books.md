@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2026-05-17*
+*Last updated: 2026-06-06*
 
 ---
 
+- ⭐ **Shoe Dog: A Memoir by the Creator of Nike by Phil Knight** - June 2026
+	- A recommendation from the Acquired podcast. Really enjoyed it. Super interesting story of how such a iconic brand came to be, and the group of misfits that made it happen. I am sure that Knight has taken some artistic liberties in the story told, but it lead to my being immersed throughout. So no complaints here. "I'd tell men and women in their mid twenties not to settle for a job,  or a profession ore even a careers. Seek a calling" 
 - **How to Win Friends and Influence People by Dale Carnegie** - May 2026
 	- Actually really liked this. Very much in the vein of "how to be a decent human", rather that the slightly manipulative spin that the book seems to have gained in modern culture. The examples were over-the-top and simplified, but I really do think there is a lot to be taken from this book. Felt a lot like a book version of Speaking in Front, a speaking course I did in London early last year. 
 - **The Art of Spending Money: Simple Choices for a Richer Life by Morgan Housel** - December 2025
