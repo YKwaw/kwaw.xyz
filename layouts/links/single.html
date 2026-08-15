@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ partial "link-styles.html" . }}
-    <div class="mx-auto max-w-3xl px-6">
+    <div class="links-container">
     {{ partial "link-item.html" (dict "page" . "isSingle" true) }}
   </div>
 {{ end }}
