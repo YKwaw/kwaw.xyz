@@ -1,0 +1,20 @@
+{{ $url := . }}
+{{ $id := "" }}
+{{ with findRESubmatch `(?:youtu\.be/|youtube\.com/(?:watch\?v=|embed/|shorts/))([a-zA-Z0-9_-]{6,})` $url 1 }}
+  {{ $id = index (index . 0) 1 }}
+{{ end }}
+
+{{ if $id }}
+  <div class="link-embed">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ $id }}"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+      loading="lazy"></iframe>
+  </div>
+{{ else }}
+  {{ warnf "youtube-embed: could not extract video ID from %s" $url }}
+{{ end }}

@@ -1,0 +1,25 @@
+{{ define "main" }}
+  {{ partial "link-styles.html" . }}
+    <div class="mx-auto max-w-3xl px-6">
+
+    <header class="mb-12">
+      <h1 class="text-4xl font-bold">
+        {{ .Title }}
+      </h1>
+
+      {{ with .Content }}
+        <div class="mt-4">
+          {{ . }}
+        </div>
+      {{ end }}
+    </header>
+
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+    {{ range $paginator.Pages }}
+      {{ partial "link-item.html" (dict "page" . "isSingle" false) }}
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+
+  </div>
+{{ end }}

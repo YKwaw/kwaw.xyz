@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Links"
+  pageRef = "links"
+  weight = 5
+
+[[main]]
   name = "Archive"
   pageRef = "posts"
   weight = 10
@@ -24,9 +29,6 @@
   name = "Books"
   pageRef = "books"
 
-[[footer]]
-  name = "Links"
-  pageRef = "links"
 
 [[footer]]
   name = "Poems"

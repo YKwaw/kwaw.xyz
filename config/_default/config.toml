@@ -14,3 +14,6 @@ summaryLength = 0
 
 [params]
   analytics = "analytics.html"
+
+[permalinks]
+  links = "/links/:year/:month/:day/:slug/"

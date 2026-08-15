@@ -1,0 +1,52 @@
+{{ $page := .page }}
+{{ $url := $page.Params.linkUrl }}
+
+{{ if $url }}
+  {{ $title := $page.Params.linkTitle }}
+  {{ $desc := $page.Params.linkDescription }}
+  {{ $image := $page.Params.linkImage }}
+
+  {{ if or (not $title) (not $desc) (not $image) }}
+    {{ with try (resources.GetRemote $url) }}
+      {{ with .Err }}
+        {{ warnf "link-card: could not fetch %s: %s" $url . }}
+      {{ else with .Value }}
+        {{ $html := .Content }}
+        {{ range findRE `<meta[^>]*>` $html }}
+          {{ $tag := . }}
+          {{ $prop := "" }}
+          {{ with findRESubmatch `(?:property|name)=["']([^"']+)["']` $tag 1 }}
+            {{ $prop = index (index . 0) 1 }}
+          {{ end }}
+
+          {{ $content := "" }}
+          {{ with findRESubmatch `content="([^"]*)"` $tag 1 }}
+            {{ $content = index (index . 0) 1 }}
+          {{ else with findRESubmatch `content='([^']*)'` $tag 1 }}
+            {{ $content = index (index . 0) 1 }}
+          {{ end }}
+
+          {{ if and (not $title) (eq $prop "og:title") }}{{ $title = $content }}{{ end }}
+          {{ if and (not $desc) (eq $prop "og:description") }}{{ $desc = $content }}{{ end }}
+          {{ if and (not $image) (eq $prop "og:image") }}{{ $image = $content }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if or $title $desc $image }}
+    <a href="{{ $url }}" rel="noopener noreferrer" class="link-card">
+      {{ with $image }}
+        <img src="{{ . }}" alt="" class="link-card-image" loading="lazy">
+      {{ end }}
+      <div class="link-card-body">
+        {{ with $title }}
+          <p class="link-card-title">{{ . }} <span class="link-card-source">&middot; {{ (urls.Parse $url).Hostname }}</span></p>
+        {{ end }}
+        {{ with $desc }}
+          <p class="link-card-desc">{{ . }}</p>
+        {{ end }}
+      </div>
+    </a>
+  {{ end }}
+{{ end }}

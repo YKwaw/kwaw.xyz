@@ -1,0 +1,45 @@
+{{ $page := .page }}
+{{ $isSingle := .isSingle }}
+{{ $linkUrl := $page.Params.linkUrl }}
+{{ $isYouTube := false }}
+{{ if $linkUrl }}
+  {{ if or (in $linkUrl "youtube.com") (in $linkUrl "youtu.be") }}
+    {{ $isYouTube = true }}
+  {{ end }}
+{{ end }}
+
+<article class="link-post">
+
+  <p class="link-date">
+    {{ $page.Date.Format "2 Jan 2006" }}
+    &middot;
+    {{ with $page.Params.author }}{{ . }}{{ else }}{{ site.Params.author.name }}{{ end }}
+  </p>
+
+  {{ with $page.Title }}
+    <p class="link-post-title">
+      <a href="{{ $page.RelPermalink }}">{{ . }}</a>
+    </p>
+  {{ end }}
+
+  <div class="prose dark:prose-invert max-w-none">
+    {{ $page.Content }}
+  </div>
+
+  {{ if $isYouTube }}
+    {{ partial "youtube-embed.html" $linkUrl }}
+  {{ else }}
+    {{ partial "link-card.html" (dict "page" $page) }}
+  {{ end }}
+
+  <p class="link-meta">
+    {{ if $isYouTube }}
+      <a href="{{ $linkUrl }}" target="_blank" rel="noopener noreferrer">go to youtube ↗</a>
+    {{ end }}
+    {{ if not $isSingle }}
+      {{ if $isYouTube }}&middot;{{ end }}
+      <a href="{{ $page.RelPermalink }}">view post ↗</a>
+    {{ end }}
+  </p>
+
+</article>
