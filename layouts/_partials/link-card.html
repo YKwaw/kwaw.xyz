@@ -21,9 +21,9 @@
 
           {{ $content := "" }}
           {{ with findRESubmatch `content="([^"]*)"` $tag 1 }}
-            {{ $content = index (index . 0) 1 }}
+            {{ $content = htmlUnescape (index (index . 0) 1) }}
           {{ else with findRESubmatch `content='([^']*)'` $tag 1 }}
-            {{ $content = index (index . 0) 1 }}
+            {{ $content = htmlUnescape (index (index . 0) 1) }}
           {{ end }}
 
           {{ if and (not $title) (eq $prop "og:title") }}{{ $title = $content }}{{ end }}
