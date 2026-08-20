@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2026-08-02*
+*Last updated: 2026-08-20*
 
 ---
 
+- **Born Standing by Steve Martin** - August 2026
+	- Got this book recommended somewhere along the way. I think from the Acquired podcast. Is short and sweet. A very straight forward look at Steve Martin's life. Some fun stories, some (anti?) jokes. I quite liked it - it was a very easy listen.
 - **How to Build a Car by Adrian Newey**  - July 2026
 	- No surprise that I liked this one. Formula lore mixed in with a very interesting personal narrative from Newey. Well worth a read for any fellow F1 nerds out there. It's a great look behind the curtain of the sport (and engineering spectacle) that we love.
 - ⭐ **Shoe Dog: A Memoir by the Creator of Nike by Phil Knight** - June 2026
