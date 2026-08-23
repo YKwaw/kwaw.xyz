@@ -2,6 +2,7 @@
 title: "Europe's scorched landscapes seen from space after summer heatwaves"
 slug: "2026-08-16-Europes-scorched-landscapes-from-space"
 date: "2026-08-16T12:35:52+01:00"
+tags: ["climate change"]
 linkUrl: "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o"
 linkImage: ""
 linkTitle: ""

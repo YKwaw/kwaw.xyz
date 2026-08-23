@@ -1,0 +1,27 @@
+{{ define "main" }}
+  {{ partial "link-styles.html" . }}
+  <div class="links-container">
+
+    <header class="link-page-header">
+      <h1 class="link-page-title">{{ .Title }}</h1>
+    </header>
+
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+    {{ range $paginator.Pages }}
+      {{ if .Params.linkUrl }}
+        {{ partial "link-item.html" (dict "page" . "isSingle" false) }}
+      {{ else }}
+        <article class="mb-10 pb-10 border-b border-neutral-100 dark:border-neutral-800 last:border-0">
+          <h2 class="text-xl font-semibold">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+          <p class="link-date">{{ .Date.Format "2 Jan 2006" }}</p>
+          {{ with .Summary }}<div class="prose dark:prose-invert mt-2">{{ . }}</div>{{ end }}
+        </article>
+      {{ end }}
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+
+  </div>
+{{ end }}

@@ -2,6 +2,7 @@
 title: ""
 slug: "{{ .File.ContentBaseName }}"
 date: "{{ .Date }}"
+tags: []
 linkUrl: ""
 linkImage: ""
 linkTitle: ""
