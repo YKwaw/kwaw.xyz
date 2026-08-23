@@ -11,23 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Links"
-  pageRef = "links"
+  name = "Books"
+  pageRef = "books"
   weight = 5
 
 [[main]]
-  name = "Archive"
+  name = "Articles"
   pageRef = "posts"
   weight = 10
+
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
 
 [[footer]]
   name = "Tags"
   pageRef = "tags"
-
-[[footer]]
-  name = "Books"
-  pageRef = "books"
-
 
 [[footer]]
   name = "Poems"
@@ -37,13 +38,3 @@
   name = "Recipes"
   pageRef = "recipes"
 
-
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10

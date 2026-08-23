@@ -1,0 +1,13 @@
+{{/* layouts/partials/home/custom.html */}}
+{{ partial "link-styles.html" . }}
+<div class="links-container">
+
+  {{ $links := .Site.GetPage "links" }}
+  {{ $paginator := .Paginate $links.RegularPages.ByDate.Reverse }}
+  {{ range $paginator.Pages }}
+    {{ partial "link-item.html" (dict "page" . "isSingle" false) }}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+</div>

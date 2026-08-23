@@ -18,8 +18,8 @@ enableCodeCopy = true
 footer.showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  layout = "custom" # valid options: page, profile, custom
+  # showRecent = false
 
 [article]
   showDate = true

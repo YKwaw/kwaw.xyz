@@ -1,5 +1,5 @@
 ---
-title: "Bookshelf"
+title: "Books"
 date: 2024-02-25
 Description: "Log of books that I have read from ~late 2023 onwards "
 ---
