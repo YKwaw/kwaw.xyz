@@ -5,10 +5,12 @@ Description: "Log of books that I have read from ~late 2023 onwards "
 ---
 Collection of things that I have read from late 2023 onwards. Mostly logging to jog my own memory. Books that I really liked or would like to revisit get a ⭐.
 
-*Last updated: 2026-08-20*
+*Last updated: 2026-08-28*
 
 ---
 
+- **The Alchemist by Paulo Coelho** - August 2026
+	- I read this at the behest of [Macklemore](https://www.youtube.com/watch?v=6mhtJduoCZ0), and you know what. I really enjoyed it. Very parable like, and a very easy read. Would pass on the recommendation to all those looking for a couple of life lessons on the meandering path that is a lifetime.
 - **Born Standing by Steve Martin** - August 2026
 	- Got this book recommended somewhere along the way. I think from the Acquired podcast. Is short and sweet. A very straight forward look at Steve Martin's life. Some fun stories, some (anti?) jokes. I quite liked it - it was a very easy listen.
 - **How to Build a Car by Adrian Newey**  - July 2026
